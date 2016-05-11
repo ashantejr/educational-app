@@ -1,0 +1,21 @@
+@font-face {
+    font-family: orange;
+    src: url(orange-juice.ttf);
+}
+@font-face {
+    font-family: sketch;
+    src: url(SketchCollege.ttf);
+}
+body{
+  color: white;
+  text-align: center;
+  background: #00aced;
+}
+h1{
+  font-size: 150px;
+  font-family: Arial;
+  font-weight: 9;
+}
+form{
+  font-size: 40px;
+}
